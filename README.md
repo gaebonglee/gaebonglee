@@ -21,10 +21,6 @@
 **bold** <br>
 *italic* <br>
 ~~strikethrough~~ <br>
-Quote - 인용구 <br>
-*1번
-*2번<br>
--1번
--2번<br>
+
 
 [네이버](naver.com)
