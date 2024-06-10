@@ -4,9 +4,11 @@
   <a href="https://github.com/gaebonglee">
     <img src="https://github-readme-stats.vercel.app/api?username=gaebonglee" alt="*'s github stats" />
   </a>
-  <a href="https://github.com/gaebonglee/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula" alt="Top Langs" />
+ <a href="https://github.com/gaebonglee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula&bg_color=ffffff" alt="Top Langs" />
   </a>
+</p>
+
 </p>
 
 <h3 align="center">✨ TECH STACK ✨</h3>
