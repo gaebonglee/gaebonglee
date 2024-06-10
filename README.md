@@ -1,10 +1,8 @@
 <p align="center">
- ![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=Welcome+to+Gayoung's+GitHub!👋)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="header"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Gayoung's+GitHub!👋" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
@@ -12,7 +10,7 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
     <img src="https://github-readme-stats.vercel.app/api?username=gaebonglee" alt="*'s github stats" />
   </a>
   <a href="https://github.com/gaebonglee/github-readme-stats">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula&bg_color=ffffff" alt="Top Langs" />
   </a>
 </p>
 
@@ -33,5 +31,4 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
   <img src="https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=fcfcfa" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=fcfcfa" />
 </p>
-
 
