@@ -1,5 +1,8 @@
 ![Welcome!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=gaebonglee)](https://github.com/gaebonglee)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula&layout=donut)](https://github.com/gaebonglee/github-readme-stats)
