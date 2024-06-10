@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=300&section=header&text=Welcome to Gayoung's GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=300&section=header&text=Welcome%to%Gayoung's%GitHub&fontSize=80)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=gaebonglee)](https://github.com/gaebonglee)
 
