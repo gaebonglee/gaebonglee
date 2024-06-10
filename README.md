@@ -1,13 +1,10 @@
-![Welcome!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Gayoung's+GitHub)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=gaebonglee)](https://github.com/gaebonglee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula&layout=donut)](https://github.com/gaebonglee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula)](https://github.com/gaebonglee/github-readme-stats)
 
-### ✨ TECH STACK ✨
+<h3 align="center">✨ TECH STACK ✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=fcfcfa" />
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=fcfcfa" />
@@ -18,7 +15,7 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=000000" />
 </p>
 
-### 📚 STUDYING 📚
+<h3 align="center">📚 STUDYING 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=fcfcfa" />
   <img src="https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=fcfcfa" />
