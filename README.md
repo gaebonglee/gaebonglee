@@ -22,3 +22,14 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=fcfcfa" />
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaebonglee&theme=dracula)
+
+## CONNECT WITH ME
+<p align="center">
+  <a href="https://linkedin.com/in/gaebonglee">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=fcfcfa" />
+  </a>
+  <a href="https://twitter.com/gaebonglee">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=fcfcfa" />
+  </a>
+</p>
