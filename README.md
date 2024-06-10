@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Gayoung's+GitHub" />
-</p>
+![Welcome!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
 
 <p align="center">
   <a href="https://github.com/gaebonglee">
