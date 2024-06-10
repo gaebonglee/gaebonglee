@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=fcfcfa" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" />
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=000000" />
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=fcfcfa" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=000000" />
+
 
 
 # Hi there 👋
