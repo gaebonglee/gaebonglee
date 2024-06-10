@@ -1,8 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Gayoung's+GitHub)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Gayoung's+GitHub" />
+</p>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=gaebonglee)](https://github.com/gaebonglee)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula)](https://github.com/gaebonglee/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/gaebonglee">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaebonglee" alt="*'s github stats" />
+  </a>
+  <a href="https://github.com/gaebonglee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula" alt="Top Langs" />
+  </a>
+</p>
 
 <h3 align="center">✨ TECH STACK ✨</h3>
 <p align="center">
@@ -21,5 +28,3 @@
   <img src="https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=fcfcfa" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=fcfcfa" />
 </p>
-
-
