@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=000000" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=fcfcfa" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=000000" />
 </p>
 
 <h3 align="center">📚 STUDYING 📚</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=fcfcfa" />
   <img src="https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=fcfcfa" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=fcfcfa" />
