@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Gayoung's+Github!;)
 
-<img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=000000" />
 <img src="https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=CSS&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
