@@ -1,14 +1,14 @@
-![Welcome!](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Gayoung's+GitHub" />
+</p>
 
 <p align="center">
   <a href="https://github.com/gaebonglee">
     <img src="https://github-readme-stats.vercel.app/api?username=gaebonglee" alt="*'s github stats" />
   </a>
- <a href="https://github.com/gaebonglee/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula&bg_color=000000" alt="Top Langs" />
+  <a href="https://github.com/gaebonglee/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula" alt="Top Langs" />
   </a>
-</p>
-
 </p>
 
 <h3 align="center">✨ TECH STACK ✨</h3>
@@ -28,3 +28,5 @@
   <img src="https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=fcfcfa" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=fcfcfa" />
 </p>
+
+
