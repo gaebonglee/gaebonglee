@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gaebonglee" alt="*'s github stats" />
   </a>
   <a href="https://github.com/gaebonglee/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebonglee&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dracula" alt="Top Langs" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
