@@ -23,9 +23,3 @@
   <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=000000" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=fcfcfa" />
 </p>
-
-<h3 align="center">📚 STUDYING 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=fcfcfa" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=fcfcfa" />
-</p>
