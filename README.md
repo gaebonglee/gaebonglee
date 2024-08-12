@@ -28,5 +28,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactNative&logoColor=black"> 
+[<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactNative&logoColor=black"> ](https://img.shields.io/badge/reactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black
+)
 </p>
