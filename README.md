@@ -28,4 +28,5 @@
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react Native&logoColor=61DAFB" />
 </p>
