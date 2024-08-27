@@ -29,6 +29,6 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/three.js-#000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/three.js?style=flat&logo=threedotjs&logoColor=white&labelColor=black&color=white">
 </p>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
